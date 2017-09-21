@@ -1,0 +1,15 @@
+D:\测试程序\WindowsFormsApplication8\WindowsFormsApplication8\bin\Debug\WindowsFormsApplication8.exe
+D:\测试程序\WindowsFormsApplication8\WindowsFormsApplication8\bin\Debug\WindowsFormsApplication8.pdb
+D:\测试程序\WindowsFormsApplication8\WindowsFormsApplication8\obj\Debug\ResolveAssemblyReference.cache
+D:\测试程序\WindowsFormsApplication8\WindowsFormsApplication8\obj\Debug\WindowsFormsApplication8.Properties.Resources.resources
+D:\测试程序\WindowsFormsApplication8\WindowsFormsApplication8\obj\Debug\WindowsFormsApplication8.csproj.GenerateResource.Cache
+D:\测试程序\WindowsFormsApplication8\WindowsFormsApplication8\obj\Debug\WindowsFormsApplication8.exe
+D:\测试程序\WindowsFormsApplication8\WindowsFormsApplication8\obj\Debug\WindowsFormsApplication8.pdb
+D:\测试程序\WindowsFormsApplication8\WindowsFormsApplication8\obj\Debug\WindowsFormsApplication8.FrmMain.resources
+D:\测试程序\WindowsFormsApplication8\WindowsFormsApplication8\obj\Debug\WindowsFormsApplication8.FrmSharingItem.resources
+D:\测试程序\WindowsFormsApplication8\WindowsFormsApplication8\obj\Debug\WindowsFormsApplication8.UCExplosionSharing.resources
+D:\测试程序\WindowsFormsApplication8\WindowsFormsApplication8\obj\Debug\WindowsFormsApplication8.UCConfigurationInterface.resources
+D:\测试程序\WindowsFormsApplication8\WindowsFormsApplication8\obj\Debug\WindowsFormsApplication8.UCWordBoard.resources
+D:\测试程序\WindowsFormsApplication8\WindowsFormsApplication8\obj\Debug\WindowsFormsApplication8.UCMassLog.resources
+D:\测试程序\WindowsFormsApplication8\WindowsFormsApplication8\obj\Debug\WindowsFormsApplication8.UCDataAnalysis.resources
+D:\测试程序\WindowsFormsApplication8\WindowsFormsApplication8\obj\Debug\WindowsFormsApplication8.UCSharingItem.resources
